@@ -10,8 +10,11 @@
 
 ### 🚀 About Me
 
+Software engineer who loves clean APIs and hates coffee.
+
+🌱 &nbsp;I'm currently learning **Swift**  
 🔭 &nbsp;I'm currently working on **PyBahn**  
-🌱 &nbsp;I'm currently learning **Swift**
+⚡ &nbsp;Fun fact: **I'm debugging in every situation**
 
 ### 🛠️ Tech Stack
 
